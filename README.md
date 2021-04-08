@@ -24,4 +24,4 @@ limited categories | unlimited categories
 
 ## Final project goal:
 
-> the website need to be build as wordpress plugin then it can be used for a wide range of wordpress websites builders.
+> the website need to be useable on desktops and smart phones .
