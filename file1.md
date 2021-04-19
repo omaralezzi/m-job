@@ -24,7 +24,10 @@ __word__
 **word**
 
 *_word_*
+-[] todo item
+-[x] todo
 
 ~~word~~
 
-~~->word
+~~->word     <-~~
+
