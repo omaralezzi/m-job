@@ -54,5 +54,8 @@ text text[my website][1]
 or like
 [ali]: http://ali.com
 
+http://unsplash.it/500/500?random
+
+![Alt ](http://unsplash.it/500/500?random "any text")
 
 
