@@ -31,3 +31,18 @@ __word__
 
 ~~->word     <-~~
 
+main heading
+===
+
+
+sub heading
+---
+---
+---
+
+links like <http://google.com>
+
+my personal website
+[my persolal website](http://omar.com)
+
+
