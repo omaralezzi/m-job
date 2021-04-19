@@ -48,3 +48,11 @@ my personal website
 [my persolal website](http://omar.com)
 
 
+text text[my website][1]
+
+[1]: http://ali.com
+or like
+[ali]: http://ali.com
+
+
+
