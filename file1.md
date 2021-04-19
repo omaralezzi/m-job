@@ -56,6 +56,6 @@ or like
 
 http://unsplash.it/500/500?random
 
-![Alt ] (http://unsplash.it/500/500?random "any text")
+! [Alt ] (http://unsplash.it/500/500?random "any text")
 
 
