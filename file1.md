@@ -114,10 +114,13 @@ Another line
 
 
 this is some code:´<h1>´
+   
 the above mean you will disable the run of html codes
 
-|names|class|
+|Names|class|
+|:---|:---|
 |text1|text2|
+|text3|text4|
 
 
 
