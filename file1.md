@@ -1,5 +1,6 @@
 Carlo class 19.04.2021
-
+- we have to use the all with markdown-preview file1.md in VS code and the result will be shown in web browser 
+- we can use https://unsplash.com/ as a free source for fotos
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 # Title
