@@ -59,3 +59,5 @@ http://unsplash.it/500/500?random
 ! [Alt ] (http://unsplash.it/500/500?random "any text")
 
 
+## image with link
+[ ![](http://unsplash.it/500/500?random) ] (http://example)
