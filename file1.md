@@ -62,3 +62,62 @@ http://unsplash.it/500/500?random
 
 ## image with link
 [ ![](http://unsplash.it/500/500?random) ] (http://example)
+
+
+## unordered list
+
+-list1
+-list2
+-list3
+
+## ordered list
+
+1. list item 1
+2. list item 2
+3. list item 3
+
+
+## aother ordered list
+
+1. list item 1
+1. list item 2
+1. list item 3
+
+## Nested list
+
+1. list item 1
+   1. nested
+   2. hi hi
+2. list item 2
+3. list item 3
+
+
+- list
+   - list
+   - list
+- list
+
+One line<br>
+Another line
+
+One line
+Another line
+
+> text text
+> text 
+> tttttt
+
+
+```
+<h1> text example to shows the code without run it on the browser </h1>
+``` 
+
+
+this is some code:´<h1>´
+the above mean you will disable the run of html codes
+
+|names|class|
+|text1|text2|
+
+
+
