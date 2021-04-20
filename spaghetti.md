@@ -31,5 +31,5 @@ you can order my book with my all Recipes over the [link](http://omar.com)
 The price is:
 |Country| Currency|
 |:---|:---|
-|EU|10 Euro|
+|EU|15 Euro|
 |USA|15 Dollar|
